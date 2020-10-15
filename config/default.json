@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Mahmut_Sel:CGCMfAnmgKT3R54Q@cluster0.bs910.mongodb.net/test",
+  "jwtSecret": "mysecrettoken"
+}
